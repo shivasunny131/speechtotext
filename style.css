@@ -22,7 +22,7 @@ body {
   }
    
   #textbox {
-      margin: 100px 10;
+      margin: 30px 0;
   }
    
   @media (max-width: 768px) {
@@ -32,6 +32,6 @@ body {
       }
    
       button {
-          margin-bottom: 10px;
+          margin-bottom: 12px;
       }
   }
