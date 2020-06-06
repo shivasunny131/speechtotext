@@ -1,11 +1,5 @@
 body {
-  background-image: url(108.jpg);
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    font-family: 'Aclonica';
-                    background-position: center;
-                    margin-top: 40px;
-                    margin-bottom: 100px;
+ background: #1e2440;
   color: cyan;
   font-size: 16px;
 }
